@@ -1,0 +1,10 @@
+Warszawa Londyn 12:00 13:00 Poniedzialek,sroda,sobota 100
+Warszawa Tokio 12:00 13:00 Poniedzialek,sroda,sobota 300
+Warszawa Paryż 12:00 13:00 Poniedzialek,sroda,sobota 200
+Warszawa Rzym 12:00 13:00 Poniedzialek,sroda,sobota 200
+Warszawa Berlin 12:00 13:00 Poniedzialek,sroda,sobota 100
+Warszawa Waszyngton 12:00 13:00 Poniedzialek,sroda,sobota 1000
+Warszawa Bangkok 12:00 13:00 Poniedzialek,sroda,sobota 1000
+Warszawa Lizbona 12:00 13:00 Poniedzialek,sroda,sobota 400
+Warszawa Ateny 12:00 13:00 Poniedzialek,sroda,sobota 500
+Warszawa Sydney 13:00 14:00 Poniedzialek,sroda,niedziela 1200

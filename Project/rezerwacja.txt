@@ -1,0 +1,2 @@
+SamolotPasazerski 3 4 1 Warszawa Tokio 12:00 13:00 Poniedzialek,sroda,sobota 300 2 1x2 300.000000 false
+SamolotPasazerski 3 4 1 Warszawa Sydney 13:00 14:00 Poniedzialek,sroda,niedziela 1200 fsdjlkho 1x1 1200.000000 false
